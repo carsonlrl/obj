@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="siguienteBTN">log_in</string>
+    //nombre del evento---nombre del text
+    //segundo activity
+    <string name="siguienteBTN1">siguiente1</string>
+    <string name="anteriorBTN1">anterior1</string>
+    //tercer activity
+    <string name="siguienteBTN2">siguiente2</string>
+    <string name="anteriorBTN2">anterior2</string>
+    //cuarto activity
+    <string name="siguienteBTN3">siguiente3</string>
+    <string name="anteriorBTN3">anterior3</string>
+    //quinto activity
+    <string name="siguienteBTN4">siguiente4</string>
+
+</resources>
